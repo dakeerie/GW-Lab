@@ -1,0 +1,5 @@
+# Parameter prior ranges (min, max)
+m1_min m1_max: 25.0 40.0
+m2_min m2_max: 25.0 40.0
+distance_min distance_max: 2000.0 3000.0
+t0_min t0_max: 1.0 2
